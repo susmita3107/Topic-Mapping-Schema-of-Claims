@@ -1,0 +1,22 @@
+Topic List
+1.Crime
+2.Science
+3.Food
+4.Politics
+5.Guns
+6.Business
+7.Religion 
+8.Terrorism
+9.Election
+10.Health
+11.Economy
+12.Legal Affairs
+13.Military
+14.Sports
+15.Covid 19/Coronavirus
+16.Climate&Environment
+17.Sex&Gender
+18.Race&Ethnicity
+19.Technology
+20.Immigration
+21.Education
